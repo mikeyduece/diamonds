@@ -1,3 +1,5 @@
+```ruby                   
+                   
                    A
                   B B
                  C   C
@@ -44,6 +46,7 @@ T                                     T
 C   C
  B B
   A
+  
   
   
                          A
@@ -136,3 +139,4 @@ S                                   S
                 C   C
                  B B
                   A
+```
