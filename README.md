@@ -1,3 +1,17 @@
+### Simple diamond printing.
+
+>Given a letter supplied to the main method call, the output will pring a diamond with the given letter at the widesst point.
+
+To use the method-
+  fork and/clone  the repo to your local machine
+  cd into new directory
+  open file and supply letter you would like in the widest part of diamond
+    The letters entered as arguments in the method call are case insensitive
+  in your terminal, enter `ruby print_diamond.rb`
+  
+The outputs are for the following letters in order `T, C, Z, S` 
+
+
 ```ruby                   
                    
                    A
