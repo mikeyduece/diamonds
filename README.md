@@ -2,7 +2,7 @@
 
 >Given a letter supplied to the main method call, the output will pring a diamond with the given letter at the widesst point.
 
-To use the method-
+To use the method-  
   fork and/clone  the repo to your local machine  
   cd into new directory  
   open file and supply letter you would like in the widest part of diamond  
