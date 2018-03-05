@@ -34,5 +34,8 @@ def bottom_half(letter)
   end
 end
 
+print_diamond('t')
 print_diamond('c')
+print_diamond('z')
+print_diamond('s')
 
