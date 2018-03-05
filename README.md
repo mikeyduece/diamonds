@@ -37,11 +37,15 @@ T                                     T
                  C   C
                   B B
                    A
+                   
+                   
   A
  B B
 C   C
  B B
   A
+  
+  
                          A
                         B B
                        C   C
@@ -93,6 +97,8 @@ Z                                                 Z
                        C   C
                         B B
                          A
+                         
+                         
                   A
                  B B
                 C   C
